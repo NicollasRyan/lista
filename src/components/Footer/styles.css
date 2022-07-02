@@ -1,0 +1,12 @@
+.fixSkirting  {
+    bottom: 0;
+    position: fixed;
+
+    padding: 25px;
+}
+
+#Footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
