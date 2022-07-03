@@ -5,6 +5,11 @@
     padding: 25px;
 }
 
+footer {
+    color: #f0f6fc;
+    font-family: 'Oswald', sans-serif;
+}
+
 #Footer {
     display: flex;
     align-items: center;

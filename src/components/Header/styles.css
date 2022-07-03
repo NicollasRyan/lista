@@ -4,3 +4,8 @@ header {
     justify-content: center;
     padding: 25px;
 }
+
+h1 {
+    color: #f0f6fc;
+    font-family: 'Oswald', sans-serif;
+}
