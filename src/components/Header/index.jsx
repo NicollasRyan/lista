@@ -6,6 +6,10 @@ export function Header() {
             <header>
                 <h1>Meus Filme e séries favoritos</h1>
             </header>
+
+            <div className="list">
+                <a href="">Minha lista</a>
+            </div>
         </div>
     )
 }

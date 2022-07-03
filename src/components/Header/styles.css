@@ -13,3 +13,22 @@ h1 {
     color: #f0f6fc;
     font-family: 'Oswald', sans-serif;
 }
+
+a {
+    display: flex;
+    justify-content: center;
+
+    text-decoration: none;
+    color: #f0f6fc;
+    background-color: rgb(14, 14, 14);
+
+    border-radius: 5px;
+    padding: 10px;
+
+    width: 120px;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+}
