@@ -5,6 +5,10 @@ header {
     padding: 25px;
 }
 
+hr {
+    width: 100%;
+}
+
 h1 {
     color: #f0f6fc;
     font-family: 'Oswald', sans-serif;

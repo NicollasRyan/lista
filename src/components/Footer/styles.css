@@ -1,17 +1,19 @@
 .fixSkirting  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
     bottom: 0;
     position: fixed;
 
     padding: 25px;
+    border-top: solid #f0f6fc 1px;
+    width: 100%;
 }
+
 
 footer {
     color: #f0f6fc;
     font-family: 'Oswald', sans-serif;
 }
 
-#Footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
