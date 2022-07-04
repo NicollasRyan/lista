@@ -1,10 +1,10 @@
-import './styles.css';
+import './styles.css'
 import { Header } from '../../components/Header';
 import { Footer } from '../../components/Footer';
 
 export function Home() {
-  return (
-    <div className="Home">
+    return (
+      <div className="Home">
       <Header />
 
     <hr />
@@ -19,6 +19,6 @@ export function Home() {
 
       <Footer />
     </div>
-  );
+    );
+        
 }
-
