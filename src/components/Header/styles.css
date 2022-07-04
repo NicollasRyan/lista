@@ -20,12 +20,13 @@ a {
 
     text-decoration: none;
     color: #f0f6fc;
-    background-color: rgb(14, 14, 14);
+    background-color: rgb(82, 82, 82);
 
     border-radius: 5px;
     padding: 10px;
 
     width: 120px;
+    margin-bottom: 7px;
 }
 
 .list {
