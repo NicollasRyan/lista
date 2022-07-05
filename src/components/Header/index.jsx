@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import './styles.css'
 
 export function Header() {
@@ -5,11 +6,11 @@ export function Header() {
         <div>
             <nav>
                 <header>
-                    <h1><a href="/">Meus Filme e séries favoritos</a></h1>
+                    <h1>Meus Filme e séries favoritos</h1>
                 </header>
 
-                <div className="list">
-                    <a href="/lista">Minha lista</a>
+                <div className="myList">
+                    <a to="/lista">Minha lista</a>
                 </div>
             </nav>
         </div>
